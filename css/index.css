@@ -1,10 +1,57 @@
 *{
- margin: 0;
- padding: 0;
- box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
-body{
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
     background-color: cornflowerblue;
     color: black;
+}
+
+header {
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h2 {
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+    background-color: cornflowerblue;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 35%;
+    height: auto;
+}
+
+.portfolio{
+    display: flex;
+    flex-wrap: wrap;
+
 }
