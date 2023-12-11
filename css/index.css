@@ -3,5 +3,41 @@
  padding: 0;
  box-sizing: border-box;
 }
+body{
+    background-color: cornflowerblue;
+    font-family: sans-serif;
+
+}
+.heading{
+    color: darkslategray;
+    text-align: center;
+    margin-top: 50px;
+    font-size: larger;
+}
+.detail{
+    text-transform: capitalize;
+    color: black;
+    font-size: medium;
+    text-indent: 30px;
+    text-align: center;
+    margin-top: 15px;
+    line-height: 20px;
+    word-spacing: 1.5px;
+}
+.btn{
+  background-color: cornflowerblue;
+  color: black;
+  text-transform: capitalize;
+  border: 2px solid ;
+  border-radius: 5px;
+  padding: 15px;
+  text-align: center;
+  display: inline-block;
+  justify-content: center;
+  cursor: pointer;
+  margin-left: 45%;
+  margin-top: 35px;
+
+}
 
     
