@@ -1,25 +1,21 @@
 *{
- margin: 0;
- padding: 0;
- box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-body{
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
     background-color: cornflowerblue;
-    font-family: sans-serif;
-
-}
-.heading{
-    color: darkslategray;
-    text-align: center;
-    margin-top: 50px;
-    font-size: larger;
-}
-.detail{
-    text-transform: capitalize;
     color: black;
-    font-size: medium;
-    text-indent: 30px;
+}
+
+header {
+    background-color: cornflowerblue;
+    color: black;
     text-align: center;
+<<<<<<< HEAD
     margin-top: 15px;
     line-height: 20px;
     word-spacing: 1.5px;
@@ -44,3 +40,45 @@ button{
 
 
     
+=======
+    padding: 20px;
+}
+
+section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h2 {
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+    background-color: cornflowerblue;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 35%;
+    height: auto;
+}
+
+.portfolio{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+>>>>>>> ada5206ee5c497e3c5de96a395ae06bc0ca96972
