@@ -8,38 +8,88 @@ body{
     font-family: sans-serif;
 
 }
+
 .heading{
     color: darkslategray;
     text-align: center;
     margin-top: 50px;
     font-size: larger;
+    
 }
+
 .detail{
     text-transform: capitalize;
     color: black;
     font-size: medium;
     text-indent: 30px;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 20px;
     line-height: 20px;
     word-spacing: 1.5px;
 }
+
 .btn{
   background-color: cornflowerblue;
   color: black;
   text-transform: capitalize;
-  border: 2px solid ;
+  border: 2px solid rgba(0, 0, 0, 0.507);
   border-radius: 5px;
-  padding: 15px;
+  padding: 12px;
+  text-decoration: none;
   text-align: center;
   display: inline-block;
   justify-content: center;
   cursor: pointer;
   margin-left: 45%;
-  margin-top: 35px;
+  margin-top: 40px;
 }
-button{
-    
+
+.btn:hover {
+    background-color: white;
+}
+
+.contacts{
+ text-align: center;
+ margin-top: 10%;
+ 
+
+}
+
+.social-icons{
+    color:#333333;
+    transition: color 0.2s;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 0 50px;
+}
+
+.social-icons:hover{
+    color: #0000ff;
+    background-color: transparent;
+}
+.date{
+    position: absolute; 
+    top: 0px; 
+    right: 0px; 
+    margin-top: 7px;
+    margin-right: 10px;
+    line-height: 25px;
+    color: black;
+    font-size: larger;
+}
+#demo{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    bottom: 30px;
+
+}
+#demo2{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    bottom: 30px;
+
 }
 
 
