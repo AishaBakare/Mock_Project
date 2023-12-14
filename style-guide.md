@@ -6,7 +6,7 @@ Header and Footer: Success
 
 ## Stylings
 background-color : Cornflowerblue
-color : white
+color : black
 
 footer-background-color: wheat
 footer-color: darkgrey
