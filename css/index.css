@@ -28,7 +28,7 @@ body{
     border-radius: 50%;
     size: 10%;
     padding-inline: 10px;
-    border: 5px solid #555;
+    border: 5px solid #5555;
     
       }
 .home_img{
@@ -37,12 +37,12 @@ body{
     width: 160px;
     height: 160px;
     border-radius: 50%;
-    /* overflow: hidden; */
     margin-bottom: var(--mb-2);
 }
 
 .home_img img{
     width: 155px;
+    border-radius: 50%;
 }
 
 .home_title{
@@ -56,4 +56,8 @@ body{
     font-size: var(--large-font-size);
     margin-bottom: var(-- mb-5);
 }
-    
+ .paragraph1{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+ }   
