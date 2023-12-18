@@ -4,22 +4,22 @@
  box-sizing: border-box;
 }
 body{
-    background-color: cornflowerblue;
+    background-color: black;
     font-family: sans-serif;
 
 }
 
 .heading{
-    color: darkslategray;
+    color: lightslategray;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 80px;
     font-size: larger;
     
 }
 
 .detail{
     text-transform: capitalize;
-    color: black;
+    color: lightgray;
     font-size: medium;
     text-indent: 30px;
     text-align: center;
@@ -29,10 +29,10 @@ body{
 }
 
 .btn{
-  background-color: cornflowerblue;
-  color: black;
+  background-color: black;
+  color: lightgray;
   text-transform: capitalize;
-  border: 2px solid rgba(0, 0, 0, 0.507);
+  border: 2px solid rgba(255, 255, 255, 0.315);
   border-radius: 5px;
   padding: 12px;
   text-decoration: none;
@@ -41,11 +41,11 @@ body{
   justify-content: center;
   cursor: pointer;
   margin-left: 45%;
-  margin-top: 40px;
+  margin-top: 70px;
 }
 
 .btn:hover {
-    background-color: white;
+    background-color: lightslategray;
 }
 
 .contacts{
@@ -91,6 +91,7 @@ body{
     bottom: 30px;
 
 }
+
 
 
     

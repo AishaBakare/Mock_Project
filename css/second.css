@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+    color: black;
+    background-color: rgb(31, 28, 28);
+    color: rgb(249, 245, 245);
+}
+
+header {
+    background-color: cornflowerblue;
+    color: black;
+    background-color: rgb(31, 28, 28);
+    color: rgb(249, 245, 245);
+    text-align: center;
+    padding: 20px;
+}
+
+
+h2 {
+    color: black;
+    color: rgb(249, 245, 245);
+}
+
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+    background-color: cornflowerblue;
+    background-color: rgb(31, 28, 28);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.project {
+    margin-bottom: 20px;
+
+}
+
+img {
+    max-width: 35%;
+    width: 30%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+#great{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
