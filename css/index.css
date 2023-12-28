@@ -8,6 +8,23 @@ body{
     font-family: sans-serif;
 
 }
+/* happiness styles*/
+.image{
+    position:fixed ;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20%;
+
+}
+.text{
+    color:lightgray;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    text-transform: capitalize;
+    line-height: 40px;
+}
 
 .heading{
     color: lightslategray;
