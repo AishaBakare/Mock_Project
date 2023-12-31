@@ -25,6 +25,23 @@ body{
     text-transform: capitalize;
     line-height: 40px;
 }
+/* happiness*/
+
+/*success styles*/
+.footer{
+    background-color: #333333;
+    margin-top: 90px;
+    height: 500px;
+    width: 100%;
+}
+.text_footer{
+    padding-top: 30px;
+    color:rgba(255, 255, 255, 0.315) ;
+    text-decoration: none;
+    word-spacing: 20px;
+}
+
+/*success*/
 
 .heading{
     color: lightslategray;
