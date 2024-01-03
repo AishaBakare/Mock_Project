@@ -28,20 +28,77 @@ body{
 /* happiness*/
 
 /*success styles*/
-.footer{
+.footer1{
     background-color: #333333;
-    margin-top: 90px;
-    height: 500px;
+    margin-top: 40px;
+    height: 150px;
     width: 100%;
 }
-.text_footer{
+.text_footer1{
     padding-top: 30px;
     color:rgba(255, 255, 255, 0.315) ;
     text-decoration: none;
+    margin-left: 10px;
+    word-spacing: 20px;
+}
+.footer2{
+    background-color: #333333;
+    margin-top: 40px;
+    height: 200px;
+    width: 100%;
+}
+.text_footer2{
+    padding-top: 30px;
+    color:rgba(255, 255, 255, 0.315) ;
+    text-decoration: none;
+    margin-left: 10px;
+    word-spacing: 20px;
+}
+.footer3{
+    background-color: #333333;
+    margin-top: 10px;
+    height: 150px;
+    width: 100%;
+}
+.text_footer3{
+    padding-top: 30px;
+    color:rgba(255, 255, 255, 0.315) ;
+    text-decoration: none;
+    margin-left: 10px;
+    word-spacing: 20px;
+}
+.footer4{
+    background-color: #333333;
+    margin-top: 40px;
+    height: 150px;
+    width: 100%;
+}
+.text_footer4{
+    padding-top: 30px;
+    color:rgba(255, 255, 255, 0.315) ;
+    text-decoration: none;
+    margin-left: 10px;
     word-spacing: 20px;
 }
 
 /*success*/
+
+/*Maryam styles*/
+.name{
+    margin-top: 30px;
+    color: lightgrey;
+    margin-left: 20px;
+
+}
+.about{
+    color: lightgray;
+    margin-top: 30px;
+    line-height: 20px;
+    margin-left: 20px;
+}
+
+
+/*Maryam styles*/
 
 /*emmanuel*/
 
@@ -83,9 +140,9 @@ img{
 
 /*Aisha stylings*/
 .heading{
-    color: lightslategray;
+    color: rgb(115, 125, 136);
     text-align: center;
-    margin-top: 80px;
+    margin-top: 70px;
     font-size: larger;
     
 }
@@ -123,7 +180,7 @@ img{
 
 .contacts{
  text-align: center;
- margin-top: 10%;
+ margin-top: 6%;
  
 
 }
