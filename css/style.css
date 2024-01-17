@@ -1,0 +1,274 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body{
+    background-color: black;
+    font-family: sans-serif;
+
+}
+/* happiness styles*/
+.image{
+    position:fixed ;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20%;
+
+}
+.text{
+    color:lightgray;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    text-transform: capitalize;
+    line-height: 40px;
+}
+
+/* happiness*/
+
+/*success styles*/
+.footer1{
+    background-color: #333333;
+    margin-top: 40px;
+    height: 150px;
+    width: 100%;
+}
+.text_footer1{
+    padding-top: 30px;
+    color:rgba(255, 255, 255, 0.315) ;
+    text-decoration: none;
+    margin-left: 10px;
+    word-spacing: 20px;
+}
+.footer2{
+    background-color: #333333;
+    margin-top: 40px;
+    height: 200px;
+    width: 100%;
+}
+.text_footer2{
+    padding-top: 30px;
+    color:rgba(255, 255, 255, 0.315) ;
+    text-decoration: none;
+    margin-left: 10px;
+    word-spacing: 20px;
+}
+.footer3{
+    background-color: #333333;
+    margin-top: 10px;
+    height: 150px;
+    width: 100%;
+}
+.text_footer3{
+    padding-top: 30px;
+    color:rgba(255, 255, 255, 0.315) ;
+    text-decoration: none;
+    margin-left: 10px;
+    word-spacing: 20px;
+}
+.footer4{
+    background-color: #333333;
+    margin-top: 40px;
+    height: 150px;
+    width: 100%;
+}
+.text_footer4{
+    padding-top: 30px;
+    color:rgba(255, 255, 255, 0.315) ;
+    text-decoration: none;
+    margin-left: 10px;
+    word-spacing: 20px;
+}
+
+/*success*/
+
+/*Maryam styles*/
+.name{
+    margin-top: 30px;
+    color: lightgrey;
+    margin-left: 20px;
+
+}
+.about{
+    color: lightgray;
+    margin-top: 30px;
+    line-height: 20px;
+    margin-left: 20px;
+}
+
+
+/*Maryam styles*/
+
+/*emmanuel*/
+
+section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h2 {
+    color: rgb(249, 245, 245);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+    background-color:lightgray;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.project {
+    margin-bottom: 20px;
+    
+}
+img{
+    width: 30%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+/*emmanuel*/
+
+/*Aisha stylings*/
+.heading{
+    color: rgb(115, 125, 136);
+    text-align: center;
+    margin-top: 70px;
+    font-size: larger;
+    
+}
+
+.detail{
+    text-transform: capitalize;
+    color: lightgray;
+    font-size: medium;
+    text-indent: 30px;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 20px;
+    word-spacing: 1.5px;
+}
+
+.btn{
+  background-color: black;
+  color: lightgray;
+  text-transform: capitalize;
+  border: 2px solid rgba(255, 255, 255, 0.315);
+  border-radius: 5px;
+  padding: 12px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  justify-content: center;
+  cursor: pointer;
+  margin-left: 45%;
+  margin-top: 70px;
+}
+
+.btn:hover {
+    background-color: lightslategray;
+}
+
+.contacts{
+ text-align: center;
+ margin-top: 6%;
+ 
+
+}
+
+.social-icons{
+    color:#333333;
+    transition: color 0.2s;
+    text-decoration: none;
+    font-size: 30px;
+    margin: 0 50px;
+}
+
+.social-icons:hover{
+    color: #0000ff;
+    background-color: transparent;
+}
+.date{
+    position: absolute; 
+    top: 0px; 
+    right: 0px; 
+    margin-top: 7px;
+    margin-right: 10px;
+    line-height: 25px;
+    color: black;
+    font-size: larger;
+}
+#demo{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    bottom: 30px;
+
+}
+#demo2{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    bottom: 30px;
+
+}
+/*Aisha's*/
+
+
+
+    
+   
+   }
+   
+   .social-icons{
+       color:#333333;
+       transition: color 0.2s;
+       text-decoration: none;
+       font-size: 30px;
+       margin: 0 50px;
+   }
+   
+   .social-icons:hover{
+       color: #0000ff;
+       background-color: transparent;
+   }
+   .date{
+       position: absolute; 
+       top: 0px; 
+       right: 0px; 
+       margin-top: 7px;
+       margin-right: 10px;
+       line-height: 25px;
+       color: black;
+       font-size: larger;
+   }
+   #demo{
+       display: flex;
+       flex-direction: row;
+       justify-content: right;
+       bottom: 30px;
+   
+   }
+   #demo2{
+       display: flex;
+       flex-direction: row;
+       justify-content: right;
+       bottom: 30px;
+   
+   }
+   /*Aisha's*/
+   
+   
+   
+       
+   
