@@ -5,18 +5,15 @@
 }
 body{
     background-color: black;
-<<<<<<< HEAD
     color: white;
     margin-left: 10px;
+    font-family: sans-serif
 }
 .note{
     margin-left: 10px;
 }
+ 
 
-=======
-    font-family: sans-serif;
-
-}
 /* happiness styles*/
 .image{
     position:fixed ;
@@ -231,9 +228,4 @@ img{
     bottom: 30px;
 
 }
-/*Aisha's*/
 
-
-
-    
->>>>>>> c41baf25cc92b2030972234002e2ab8c011cbfc2
